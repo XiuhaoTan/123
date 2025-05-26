@@ -5,7 +5,6 @@
 div.table {
     border-collapse:collapse;
     margin:20%;
-    
 }
 
 div.row{
@@ -20,7 +19,7 @@ div.cell{
 }
 /* PH logo setting */
 div.honver{
-           background: aqua;
+           background: Black;
            display: block;
            padding: 5px;
        }
